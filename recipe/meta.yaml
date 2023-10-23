@@ -14,6 +14,7 @@ source:
     - add-rt-to-dotpc.patch          # [linux]
     - modify-dotpc-win.patch         # [win]
     - macos-do-not-use-deprecated.patch
+    - distutils-to-setuptools.patch
 
 build:
   number: 6
